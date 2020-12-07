@@ -5,7 +5,7 @@ import SotoDynamoDB
 struct SwiftAwsLambdaStarter: EventLoopLambdaHandler {
     typealias In = APIGateway.V2.Request
     typealias Out = APIGateway.V2.Response
-    
+
     func handle(context: Lambda.Context, event: APIGateway.V2.Request) -> EventLoopFuture<APIGateway.V2.Response> {
         context
             .eventLoop
