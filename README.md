@@ -11,5 +11,7 @@ Use this package to as a starting point for Swift in AWS Lambda.
 
 ## Sources
 [Introducing Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
+
 [Use Swift on AWS Lambda with Xcode](https://developer.apple.com/videos/play/wwdc2020/10644/)
+
 [swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime)
